@@ -1,0 +1,16 @@
+2022/08/17-17:31:17 INFO  [main] com.hl.erp.ErpApplication - Starting ErpApplication on skylettedeiMac.local with PID 1101 (/Users/skylettelv/Desktop/0629/HLERP/HLERP-boot/target/classes started by skylettelv in /Users/skylettelv/Desktop/0629/HLERP)
+2022/08/17-17:31:17 DEBUG [main] com.hl.erp.ErpApplication - Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2022/08/17-17:31:17 INFO  [main] com.hl.erp.ErpApplication - No active profile set, falling back to default profiles: default
+2022/08/17-17:31:22 INFO  [main] com.hl.erp.ErpApplication - Started ErpApplication in 5.873 seconds (JVM running for 6.58)
+2022/08/17-18:01:06 INFO  [main] com.hl.erp.ErpApplication - Starting ErpApplication on skylettedeiMac.local with PID 1535 (/Users/skylettelv/Desktop/0629/HLERP/HLERP-boot/target/classes started by skylettelv in /Users/skylettelv/Desktop/0629/HLERP)
+2022/08/17-18:01:06 DEBUG [main] com.hl.erp.ErpApplication - Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2022/08/17-18:01:06 INFO  [main] com.hl.erp.ErpApplication - No active profile set, falling back to default profiles: default
+2022/08/17-18:01:12 INFO  [main] com.hl.erp.ErpApplication - Started ErpApplication in 7.135 seconds (JVM running for 7.751)
+2022/08/17-18:02:00 INFO  [main] com.hl.erp.ErpApplication - Starting ErpApplication on skylettedeiMac.local with PID 1549 (/Users/skylettelv/Desktop/0629/HLERP/HLERP-boot/target/classes started by skylettelv in /Users/skylettelv/Desktop/0629/HLERP)
+2022/08/17-18:02:00 DEBUG [main] com.hl.erp.ErpApplication - Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2022/08/17-18:02:00 INFO  [main] com.hl.erp.ErpApplication - No active profile set, falling back to default profiles: default
+2022/08/17-18:02:06 INFO  [main] com.hl.erp.ErpApplication - Started ErpApplication in 6.285 seconds (JVM running for 6.754)
+2022/08/17-18:03:30 INFO  [main] com.hl.erp.ErpApplication - Starting ErpApplication on skylettedeiMac.local with PID 1581 (/Users/skylettelv/Desktop/0629/HLERP/HLERP-boot/target/classes started by skylettelv in /Users/skylettelv/Desktop/0629/HLERP)
+2022/08/17-18:03:30 DEBUG [main] com.hl.erp.ErpApplication - Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2022/08/17-18:03:30 INFO  [main] com.hl.erp.ErpApplication - No active profile set, falling back to default profiles: default
+2022/08/17-18:03:36 INFO  [main] com.hl.erp.ErpApplication - Started ErpApplication in 6.85 seconds (JVM running for 7.273)
